@@ -1,0 +1,27 @@
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos IPs.csprojResolveAssemblyReference.cache
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos_IPs.Form1.resources
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos_IPs.Properties.Resources.resources
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos IPs.csproj.GenerateResource.Cache
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\Quantos IPs.exe
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\Quantos IPs.pdb
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos IPs.exe
+c:\users\eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos IPs.pdb
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\Quantos IPs.exe.manifest
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\Quantos IPs.application
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos IPs.exe.manifest
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\obj\Debug\Quantos IPs.application
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\mscorlib.dll
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\sortkey.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\sorttbls.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\big5.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\bopomofo.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\ksc.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\prc.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\prcp.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\xjis.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\normidna.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\normnfc.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\normnfd.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\normnfkc.nlp
+C:\Users\Eliel\documents\visual studio 2015\Projects\Quantos IPs\Quantos IPs\bin\Debug\normnfkd.nlp
